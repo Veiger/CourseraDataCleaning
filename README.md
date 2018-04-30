@@ -9,4 +9,5 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##CodeBook.Rmd: describes the data, variables and transformations. 
+
 ##run_analysis.R: cleans the original data and generates a tidydata.txt file.
